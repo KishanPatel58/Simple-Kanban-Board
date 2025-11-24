@@ -1,4 +1,4 @@
-# Simple-Kanban-Board
+# Simple-Kanban-Board (In Progress)
 ## About :-
 --> this is simple 'kanban board' project
 --> in which user can save their 'todos', 'on working' or 'completed' works and also user can manage this things.
@@ -13,4 +13,3 @@
 ## Devloper :-
 "Kishan Patel(ME)"
 ### [Visit My Portfolio Website](https://kishandev.vercel.app)
-### Status :- In Progress
